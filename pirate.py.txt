@@ -1,2 +1,4 @@
 # In pirate.py
 print "Arr, matey"
+for i in range(100)
+	print str(i) + "bpttle of rum"
